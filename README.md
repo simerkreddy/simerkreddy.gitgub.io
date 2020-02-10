@@ -1,2 +1,2 @@
-# simerkreddy.gitgub.io
+# simerkreddy.github.io
 website to do MSDS assignments
